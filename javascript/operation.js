@@ -3,14 +3,14 @@ let str1 = "hi "
 let str2 = "mohan"
 // console.log(str1+str2)
 
-// console.log("1" + 2)
-// console.log(1+"2" +"1")
-// console.log("1"+1 +1)
-// console.log(1+1+"2")
+// console.log("1" + 2)//12
+// console.log(1+"2" +"1")//121
+// console.log("1"+1 +1)//111
+// console.log(1+1+"2")//22
 
-// console.log("2"*4*2)
-// console.log("2"+4*2)
-// console.log("2"+4+2*2)
+// console.log("2"*4*2)//16
+// console.log("2"+4*2)//28
+// console.log("2"+4+2*2) //244
 //need to go through conversion documentation
 
 //increment and assignment
